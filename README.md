@@ -64,6 +64,43 @@ Browse and test on any photo.
 python server.py
 ```
 
+#### Step By Step
+
+<b>1: Run The Server</b></br>
+<div align='center'>
+  <img src='./images/1-Run-Server.jpg'>
+</div>
+
+<b>2: You Will be Notified when the server is run.</b></br>
+<div align='center'>
+  <img src='./images/2-Server-Run.jpg'>
+</div>
+
+<b>3: Copy URL and Paste In Browser</b></br>
+<div align='center'>
+  <img src='./images/3-Copy-Url-And-Paste-In-Browser.jpg'>
+</div>
+
+<b>4: Browse image and hit upload</b></br>
+<div align='center'>
+  <img src='./images/4-Browse-Image-And-Hit-Upload.jpg'>
+</div>
+
+<b>5: Progress Can Be Seen On Console</b></br>
+<div align='center'>
+  <img src='./images/5-Progress-Can-Be-Seen-On-Console.jpg'>
+</div>
+
+<b>6: Download Generated Image. Please Keep in Mind that upload and generated image is replaced everytime.</b></br>
+<div align='center'>
+  <img src='./images/6-Download-Generrated-Image.jpg'>
+</div>
+
+<b>7: Generated image and uploaded image can be seen in static folder with test-cartoon.jpg and test.jpg respectively.</b></br>
+<div align='center'>
+  <img src='./images/7-Image-uploaded-and-generated-in-static-folder.jpg'>
+</div>
+
 ## Q&A
 #### Q：Why is the result of this project different from mini program?
 
