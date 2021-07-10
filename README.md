@@ -103,9 +103,7 @@ python server.py
 
 ## Youtube Video
 Click On Link To Watch Youtube Video.</br>
-<div align='center'>
-  <a href="https://www.youtube.com/watch?v=1HSppByqxpg" target="_blank"><img src='http://i3.ytimg.com/vi/1HSppByqxpg/hqdefault.jpg></a>
-</div>
+[![Photo 2 Cartoon Flask Web App](http://i3.ytimg.com/vi/1HSppByqxpg/hqdefault.jpg)](https://www.youtube.com/watch?v=1HSppByqxpg)
 
 
 ## Q&A
