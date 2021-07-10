@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://github.com/Sba-Stuff/photo2cartoon/blob/master/static/images/P2CBSP.png?raw=true'>
+  <img src='./static/images/P2CBS.png'>
 </div>
 
 (Photo to Cartoon)
