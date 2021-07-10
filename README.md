@@ -1,10 +1,10 @@
 <div align='center'>
-  <img src='./images/title.png'>
+  <img src='https://github.com/Sba-Stuff/photo2cartoon/blob/master/static/images/P2CBSP.png?raw=true'>
 </div>
 
-# 人像卡通化 (Photo to Cartoon)
+(Photo to Cartoon)
 
-**中文版** | [English Version](README_EN.md)
+[English Version](README_EN.md)
 
 该项目为[小视科技](https://www.minivision.cn/)卡通肖像探索项目。您可使用微信扫描下方二维码或搜索“AI卡通秀”小程序体验卡通化效果。
 
